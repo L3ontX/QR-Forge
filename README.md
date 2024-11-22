@@ -16,7 +16,7 @@ Batch Creation: Quickly generate multiple QR codes at once.
 Cloud Sync: Save and sync your QR codes with iCloud.
 
 📱 Installation
-Download QR Forge from the App Store (link coming soon).
+Download QR Forge at: https://github.com/L3ontX/QR-Forge/releases/download/Stable/QR-Forge.ipa
 Launch the app and start creating QR codes right away!
 
 🛠️ How to Use
